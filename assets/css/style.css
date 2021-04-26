@@ -549,7 +549,7 @@ body {
   
   .jumbotron img {
     width: 200px;
-    margin-top: 3.5em;
+    margin-top: -3.5em;
   }
 
 
